@@ -1,6 +1,6 @@
 {
     "name": "@jstec/ui",
-    "version": "0.3.0",
+    "version": "0.0.1",
     "description": "基于vue-cli3的UI库",
     "main": "lib/@jstec/ui.umd.min.js",
     "private": false,
